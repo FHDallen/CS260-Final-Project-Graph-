@@ -10,12 +10,13 @@ Description:\
  The graph consists of nodes (vertices) and edges with weights. It supports \
  adding vertices and edges, performing depth-first search (DFS), finding the \
  shortest path between two nodes using Dijkstra's algorithm, and finding the \
- minimum spanning tree (MST) using Kruskal's algorithm. The program also \
- includes test cases to demonstrate these functionalities.
+ minimum spanning tree (MST) using Kruskal's algorithm. 
+
+
 
 Per Project Guidelines on Moodle: 
 
-1.) We will use a graph structure to represent a network of cities and the \
+1.) A graph structure can be used to represent a network of cities and the \
 roads connecting them. Each city will be a vertex, and each road will be an \
 edge with a weight representing the distance between the cities. This graph \
 structure can be used to solve problems like finding the shortest path \
